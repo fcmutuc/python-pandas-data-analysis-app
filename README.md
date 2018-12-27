@@ -14,7 +14,7 @@ https://github.com/fcmutuc/python-pandas-data-analysis-app
 
 ## Installation from sources
 You can use `pip` if you want all the dependencies pulled
-in automatically (the `-r` option is for installing package dependencies listed in the requirements file found at the top-most level of the project (https://pip.pypa.io/en/latest/reference/pip_install.html#editable-installs)):
+in automatically (the `-r` option is for installing package dependencies listed in the requirements file found at the top-most level of the project (https://pip.pypa.io/en/latest/user_guide/#requirements-files)):
 
 ```sh
 pip install -r requirements.txt

@@ -1,5 +1,6 @@
 #!/usr/bin/python
-
+# This is a python application for exploring the pandas data analysis
+# library using 311 Service Request data from Open Data NYC
 
 def guess_borough(row):
     return row["park_borough"] if ("Unspecified" in row["borough"] and "Unspecified" not in row["park_borough"]) else row["borough"]
@@ -163,7 +164,7 @@ def main():
             print("End executing")
 
     except ImportError:
-        print("Missing dependencies. Try running 'pip3 install -r requirements.txt' at the top-most directory in this project.")
+        print("Missing dependencies. Try running 'pip install -r requirements.txt' at the top-most directory in this project.")
     except (OSError, IOError) as ose:
         print(ose)
     except Exception as e:

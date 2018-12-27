@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# This is a python application for exploring the pandas data analysis
+# This is a Python application for exploring the pandas data analysis
 # library using 311 Service Request data from Open Data NYC
 
 def guess_borough(row):

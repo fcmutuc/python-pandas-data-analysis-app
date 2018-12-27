@@ -7,7 +7,8 @@ The source code is currently hosted on GitHub at:
 https://github.com/fcmutuc/python-pandas-data-analysis-app
 
 ## Dependencies
-- [pandas](https://pandas.pydata.org/): 0.23.4 or higher
+- [Python](https://www.python.org): 3.7.0 or higher
+- [pandas](https://pandas.pydata.org): 0.23.4 or higher
 - [NumPy](https://www.numpy.org): 1.12.0 or higher
 - [python-dateutil](https://labix.org/python-dateutil): 2.5.0 or higher
 - [pytz](https://pythonhosted.org/pytz): 2011k or higher

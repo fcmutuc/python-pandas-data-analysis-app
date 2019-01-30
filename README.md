@@ -21,5 +21,8 @@ in automatically (the `-r` option is for installing package dependencies listed 
 pip install -r requirements.txt
 ```
 
+## License
+<a href="https://github.com/fcmutuc/python-pandas-data-analysis-app/blob/master/LICENSE">MIT</a>
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
